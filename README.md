@@ -1,4 +1,4 @@
-The main benefit of a very deep network is that it can represent very complex functions. It can also learn features at many different levels of abstraction, from edges (at the lower layers) to very complex features (at the deeper layers). However, a huge barrier to training them is vanishing gradients.
+1The main benefit of a very deep network is that it can represent very complex functions. It can also learn features at many different levels of abstraction, from edges (at the lower layers) to very complex features (at the deeper layers). However, a huge barrier to training them is vanishing gradients.
 
 ResNets has 2 advantages:
 1. A "shortcut" or a "skip connection" allows the gradient to be directly backpropagated to earlier layers reducing the vanishing gradient problem
